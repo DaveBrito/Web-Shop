@@ -1,0 +1,3 @@
+Caso nao consiga pelo terminal do bash, 
+usar o comando 'ng generate component home'. Entre no git bash, navegue ate a pasta do projeto, e por lá faça o comando para gerar o componente.
+Ex: 'C:/Projeto/Angular'
