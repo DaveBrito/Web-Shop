@@ -1,3 +1,37 @@
+Problemas ao adicionar components no terminal:
 Caso nao consiga pelo terminal do bash, 
 usar o comando 'ng generate component home'. Entre no git bash, navegue ate a pasta do projeto, e por lá faça o comando para gerar o componente.
-Ex: 'C:/Projeto/Angular'
+Ex: 'C:/Projeto/Angular > ng new component home'.
+
+Problema com init git:
+Caso já exista o git init no projeto, mas não está na pasta atual, remova-o com o comando.
+ 'rm -rf .git'
+ 
+ Link do Banco :
+ https://github.com/thecodedeck/angular-cc-1-server
+
+
+
+Link das Imagens:
+ https://github.com/thecodedeck/angular-cc-1-client
+ 
+ *Faça o clone do projeto no vs code, entre no terminal e use o comando 'npm install'.*
+ *Copie a pasta 'products', e coloque na pasta do projeto em desenvolvimento, dentro de assets/images/.* Caso não tenha a pasta images, adicione-a.
+ *Execute o comando 'node server.js' no terminal powershell*.
+ Server listening at http://localhost:3000
+
+ OBS: Caso não seja desse link acima, deva ser do link do banco.
+
+ Instalação de exntesões:
+ 1-Auto Rename Tag
+ 2-Angular Language Service
+ 4-Prettier- Code Formatter
+
+ *Não recomendado para iniciantes* - Pesquise antes de usar-lo.
+ 3- github Copilot
+
+
+*Para rodar a aplicação, precisa rodar o server.js do outro arquivo no terminal, 'ng server.js', ligado na porta 3000.
+*Rodar no projeto em desenvolvimento o comando, 'ng serve', na porta 4200.*
+
+
